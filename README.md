@@ -18,7 +18,38 @@ Consiste en crear pequeños componentes de software que solo hacen una tarea, la
 - Facilita los procesos de prueba y test.
 
 ## Ventajas y desventajas
-| Arquitectura | Ventajas | Desventajas |
-| ------------- | ------------- | ------------- |
-| Monolítica  | Contenido de la celda  | Segundo encabezado |
-| Microservicios  | Contenido de la celda  | Segundo encabezado |
+### Monolítica: 
+- Ventajas
+  - Implementación sencilla
+  - Desarrollo.
+  - Rendimiento.
+  - Depuración sencilla.
+  - Pruebas simplificadas.
+- Desventajas
+  - Velocidad de desarrollo más lenta.
+  - Escalabilidad.
+  - Fiabilidad.
+  - Barrera para la adopción de tecnología.
+  - Falta de flexibilidad.
+  - Implementación.
+
+### Microservicios: 
+- Ventajas
+  - Implementación sencilla
+  - Desarrollo.
+  - Rendimiento.
+  - Depuración sencilla.
+  - Pruebas simplificadas.
+- Desventajas
+  - Velocidad de desarrollo más lenta.
+  - Escalabilidad.
+  - Fiabilidad.
+  - Barrera para la adopción de tecnología.
+  - Falta de flexibilidad.
+  - Implementación.
+  
+## Comparación
+| Monolítica | Microservicios |
+| ------------- | ------------- |
+| Monolítica  | - Implementación sencilla|
+| Microservicios  | Contenido de la celda  |
