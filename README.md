@@ -64,5 +64,7 @@ El modelo monolítico puede ser aplicado a aplicaciones de poco crecimiento y fu
 ### Arquitectura Microservicios: 
 Se está utilizando una arquitectura de microservicios para poder escalar servicios y garantizar que pueden prestarlos de forma continua y sin interrupciones.
 
-##Referencias
-Atlassian. (s. f.). Comparación entre la arquitectura monolítica y la arquitectura de microservicios. Recuperado 5 de septiembre de 2022, de https://www.atlassian.com/es/microservices/microservices-architecture/microservices-vs-monolith#:%7E:text=Una%20aplicaci%C3%B3n%20monol%C3%ADtica%20se%20compila,pueden%20implementar%20de%20forma%20independiente. ¿Qués Es Una Aplicación Monolítica Vs. Microservicios? (2022, 16 mayo). Codster. Recuperado 5 de septiembre de 2022, de https://codster.io/blog/aplicacion-monolitica-vs-microservicios/
+## Referencias
+Atlassian. (s. f.). Comparación entre la arquitectura monolítica y la arquitectura de microservicios. Recuperado 5 de septiembre de 2022, de https://www.atlassian.com/es/microservices/microservices-architecture/microservices-vs-monolith#:%7E:text=Una%20aplicaci%C3%B3n%20monol%C3%ADtica%20se%20compila,pueden%20implementar%20de%20forma%20independiente. 
+
+¿Qués Es Una Aplicación Monolítica Vs. Microservicios? (2022, 16 mayo). Codster. Recuperado 5 de septiembre de 2022, de https://codster.io/blog/aplicacion-monolitica-vs-microservicios/
