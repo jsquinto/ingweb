@@ -1,4 +1,6 @@
 # Arquitectura Monolítica vs Microservicios
+![Esta es una imagen](https://www.ilimit.com/wp-content/uploads/2020/09/Monolith-vs-Microservices-1024x568.png)
+
 ## Arquitectura Monolítica
 Consiste en crear una aplicación autosuficiente que contenga absolutamente toda la funcionalidad necesaria para realizar la tarea para la cual fue diseñada, sin contar con dependencias externas que complementen su funcionalidad. En este sentido, sus componentes trabajan juntos, compartiendo los mismos recursos y memoria.
 ## Arquitectura basada en Microservicios
