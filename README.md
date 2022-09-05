@@ -14,3 +14,9 @@ Consiste en crear pequeños componentes de software que solo hacen una tarea, la
 - Permite desarrrollarse por medio de distintos lenguajes de programación.
 - Escalabilidad por módulos.
 - Facilita los procesos de prueba y test.
+
+## Ventajas y desventajas
+| Arquitectura | Ventajas | Desventajas |
+| ------------- | ------------- | ------------- |
+| Monolítica  | Contenido de la celda  | Segundo encabezado |
+| Microservicios  | Contenido de la celda  | Segundo encabezado |
