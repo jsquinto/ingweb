@@ -10,7 +10,7 @@ Consiste en crear pequeños componentes de software que solo hacen una tarea, la
 - Programas que son fáciles de desarrollar.
 - El costo de desarrollo es bajo.
 - La ejecución y el despliegue del software son sencillos.
-## Arquitectura basada en Microservicios
+## Caracteríticas Arquitectura basada en Microservicios
 - Facilita las actualizaciones.
 - Despliegue independiente.
 - Permite desarrrollarse por medio de distintos lenguajes de programación.
