@@ -35,18 +35,17 @@ Consiste en crear pequeños componentes de software que solo hacen una tarea, la
 
 ### Microservicios: 
 - Ventajas
-  - Implementación sencilla
-  - Desarrollo.
-  - Rendimiento.
-  - Depuración sencilla.
-  - Pruebas simplificadas.
+  - Agilidad.
+  - Escalado flexible.
+  - Implementación continua.
+  - Muy fácil de mantener y probar.
+  - Alta fiabilidad.
 - Desventajas
-  - Velocidad de desarrollo más lenta.
-  - Escalabilidad.
-  - Fiabilidad.
-  - Barrera para la adopción de tecnología.
-  - Falta de flexibilidad.
-  - Implementación.
+  - Desarrollo descontrolado.
+  - Costes exponenciales de infraestructura.
+  - Más sobrecarga organizativa.
+  - Desafíos para la depuración.
+  - Falta de estandarización.
   
 ## Comparación
 | Monolítica | Microservicios |
