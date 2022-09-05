@@ -62,4 +62,4 @@ Consiste en crear pequeños componentes de software que solo hacen una tarea, la
 ### Arquitectura Monolítica: 
 El modelo monolítico puede ser aplicado a aplicaciones de poco crecimiento y funcionalidad fija. De modo tal, que su despliegue es rápido y relativamente económico.
 ### Arquitectura Microservicios: 
-El modelo monolítico puede ser aplicado a aplicaciones de poco crecimiento y funcionalidad fija. De modo tal, que su despliegue es rápido y relativamente económico.
+Se está utilizando una arquitectura de microservicios para poder escalar servicios y garantizar que pueden prestarlos de forma continua y sin interrupciones.
