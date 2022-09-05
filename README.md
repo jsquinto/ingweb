@@ -50,5 +50,5 @@ Consiste en crear pequeños componentes de software que solo hacen una tarea, la
 ## Comparación
 | Monolítica | Microservicios |
 | ------------- | ------------- |
-| Monolítica  | - Implementación sencilla|
-| Microservicios  | Contenido de la celda  |
+| Compila como una sola unidad unificada, es decir como solo una aplicación  | Es una serie de servicios pequeños que presentan diferentes funcionalidades que se pueden implementar de forma independiente.|
+| Velocidad de desarrollo más lenta  | Agilidad  |
