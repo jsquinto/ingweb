@@ -1,4 +1,9 @@
 ## Presentación Electiva Ingeniería Web:
+
+Integrantes
+- Maria Camila Guevara
+- Juan Sebastian Quintero
+
 ### Contenido:
 - ¿Qué es la web semántica?
 - Historia
