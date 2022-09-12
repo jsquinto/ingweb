@@ -8,7 +8,7 @@
 La web Semántica ha sido impulsada por el mismo creador Tim Berners Lee en el 2000 para que la información sea reunida de forma que los buscadores puedan 
 “comprender”, más allá de limitarse a colocar los documentos en una lista. En otras palabras, es la web que permite encontrar, compartir e integrar la información más rápidamente
 
-
+### Antecedentes
 Timothy Berners-Lee, (Londres, 1955). Es un informático británico. Considerado el padre de la World Wide Web (www), que ha revolucionado tanto el ámbito de las telecomunicaciones como la Sociedad. Diseñó el primer navegador de la historia denominado World Wide Web y el primer servidor web llamado Hyper Text Transfer Protocol Daemon (HTTPD). Defensor del acceso asequible a los datos y de la gratuidad de la web. Fundó el Consorcio de la World Wide Web (W3C) para estandarizar las tecnologías que permiten el funcionamiento de Internet.
 
 
