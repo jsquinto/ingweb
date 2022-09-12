@@ -11,6 +11,7 @@ La web Semántica ha sido impulsada por el mismo creador Tim Berners Lee en el 2
 ### Antecedentes
 Timothy Berners-Lee, (Londres, 1955). Es un informático británico. Considerado el padre de la World Wide Web (www), que ha revolucionado tanto el ámbito de las telecomunicaciones como la Sociedad. Diseñó el primer navegador de la historia denominado World Wide Web y el primer servidor web llamado Hyper Text Transfer Protocol Daemon (HTTPD). Defensor del acceso asequible a los datos y de la gratuidad de la web. Fundó el Consorcio de la World Wide Web (W3C) para estandarizar las tecnologías que permiten el funcionamiento de Internet.
 
+![Imagen de Arquitectura Monolítica vs Microservicios](https://www.ilimit.com/wp-content/uploads/2020/09/Monolith-vs-Microservices-1024x568.png)
 
 Hasta ahora, la WWW se ha guiado principalmente por la sintaxis de la información. Para ello, los programas informáticos utilizan algoritmos que analizan índices de datos, palabras clave y consultas de búsqueda. En función de la singularidad de una consulta, los motores de búsqueda ofrecen resultados de búsqueda más o menos adecuados (SERP).
 Sin embargo, es importante para los usuarios y las empresas que los programas puedan procesar la información de búsqueda y uso de la manera más eficiente posible. Por lo tanto, la web semántica no sólo se guía por los términos de búsqueda y la sintaxis, sino también por valores de significado. Así, las máquinas no solo pueden encontrar contenidos, sino también comprender y distinguir su significado.
