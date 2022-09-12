@@ -25,3 +25,7 @@ Ontología: Web Ontology Language (OWL) es un lenguaje de ontología más comple
 Lógica unificadora: reúne las diversas ontologías y lenguajes de reglas, inferencias comunes, significado de los datos
 Prueba: explicación de los resultados de la inferencia, procedencia de los datos
 Confianza: Confianza en que el sistema funciona correctamente Confianza en que el sistema puede explicar
+
+### Enlaces
+
+Ceupe, B. (2018, 25 septiembre). ¿Qué es la la web Semántica? Ceupe. Recuperado 11 de septiembre de 2022, de https://www.ceupe.com/blog/que-es-la-la-web-semantica.html?dt=1662947435069
