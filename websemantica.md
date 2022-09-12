@@ -28,6 +28,8 @@ En la web semántica, sin embargo, las máquinas no sólo entenderían el conten
 - Prueba: explicación de los resultados de la inferencia, procedencia de los datos
 - Confianza: Confianza en que el sistema funciona correctamente Confianza en que el sistema puede explicar
 
+![arquitectura web semantica](https://www.researchgate.net/profile/Pompeu-Casanovas/publication/258839086/figure/fig2/AS:297021857648641@1447826937176/Capas-de-la-Web-Semantica-T-Berners-Lee-Version-de-S-Bratt-2007-Fuente.png)
+
 ### Enlances
 
 - Ceupe, B. (2018, 25 septiembre). ¿Qué es la la web Semántica? Ceupe. Recuperado 11 de septiembre de 2022, de https://www.ceupe.com/blog/que-es-la-la-web-semantica.html?dt=1662947435069
