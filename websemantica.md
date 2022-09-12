@@ -28,7 +28,7 @@ En la web semántica, sin embargo, las máquinas no sólo entenderían el conten
 - Prueba: explicación de los resultados de la inferencia, procedencia de los datos
 - Confianza: Confianza en que el sistema funciona correctamente Confianza en que el sistema puede explicar
 
-![arquitectura web semantica](https://www.researchgate.net/profile/Mari-Vallez/publication/216537707/figure/fig2/AS:667826700419098@1536233701899/Figura-1-Arquitectura-de-la-web-semantica-Fuente-Tim-Berners-Lee.png)
+![arquitectura web semantica](http://4.bp.blogspot.com/-J74zBC610jw/ULweS5TQmMI/AAAAAAAAAFQ/dcCVvFth7BU/s1600/web-31.png)
 
 ### Enlances
 
