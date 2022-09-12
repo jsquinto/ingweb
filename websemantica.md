@@ -4,7 +4,7 @@
 - Historia
 - Arquitectura
 
-[] hola 
+[x] hola 
 
 ### Web Semántica o Web 3.0: 
 La web Semántica ha sido impulsada por el mismo creador Tim Berners Lee en el 2000 para que la información sea reunida de forma que los buscadores puedan 
