@@ -4,6 +4,8 @@
 - Historia
 - Arquitectura
 
+[] hola 
+
 ### Web Semántica o Web 3.0: 
 La web Semántica ha sido impulsada por el mismo creador Tim Berners Lee en el 2000 para que la información sea reunida de forma que los buscadores puedan 
 “comprender”, más allá de limitarse a colocar los documentos en una lista. En otras palabras, es la web que permite encontrar, compartir e integrar la información más rápidamente
