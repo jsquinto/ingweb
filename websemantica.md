@@ -29,4 +29,5 @@ En la web semántica, sin embargo, las máquinas no sólo entenderían el conten
 
 ### Enlances
 
-Ceupe, B. (2018, 25 septiembre). ¿Qué es la la web Semántica? Ceupe. Recuperado 11 de septiembre de 2022, de https://www.ceupe.com/blog/que-es-la-la-web-semantica.html?dt=1662947435069
+- Ceupe, B. (2018, 25 septiembre). ¿Qué es la la web Semántica? Ceupe. Recuperado 11 de septiembre de 2022, de https://www.ceupe.com/blog/que-es-la-la-web-semantica.html?dt=1662947435069
+- Berrocal, R. (s. f.). BERNERS-LEE, Timothy. Recuperado 11 de septiembre de 2022, de https://forohistorico.coit.es/index.php/personajes/personajes-internacionales/item/berners-lee-timothy
