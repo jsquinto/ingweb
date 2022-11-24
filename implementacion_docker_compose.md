@@ -72,3 +72,17 @@ services:
   
   ![Captura de pantalla 2022-11-24 141321](https://user-images.githubusercontent.com/88751751/203852557-7921c8a2-08e7-43c3-97df-e107930f4733.png)
 
+Se compila el archivo docker-compose.
+  
+* mediante el comando: docker-compose up --build -d
+
+  ![Captura de pantalla 2022-11-24 141632](https://user-images.githubusercontent.com/88751751/203852740-e31e1a03-c3e4-4390-be1e-71c860bd548d.png)
+![Captura de pantalla 2022-11-24 141714](https://user-images.githubusercontent.com/88751751/203852774-eb57c403-7cdf-4eca-bd5e-7877f930abe4.png)
+
+Se comprueba que la imagen haya sido creada correctamente
+  
+* Ejecutar el comando: docker images
+  
+  ![Captura de pantalla 2022-11-24 142309](https://user-images.githubusercontent.com/88751751/203853397-f85eeba3-db28-480e-82cf-8cccd565eff6.png)
+
+ 
