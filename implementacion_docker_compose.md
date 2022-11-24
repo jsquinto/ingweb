@@ -115,7 +115,13 @@ Creación de un contexto de Azure
   
 
  Confirmar que agregó el contexto de ACI a los contextos de Docker
+  
 * Ejecutando el comando: docker context ls
   
   ![Captura de pantalla 2022-11-24 143841](https://user-images.githubusercontent.com/88751751/203855111-51bfc161-f1a6-4fa1-acaf-4b552011071f.png)
 
+Ejecutar docker compose up para iniciar la aplicación en Azure Container Instances
+  
+  * Ejecutando el comando: docker compose up
+  
+  ![Captura de pantalla 2022-11-24 144006](https://user-images.githubusercontent.com/88751751/203855227-93c2209e-e7af-45ec-b7ef-59c48f188131.png)
