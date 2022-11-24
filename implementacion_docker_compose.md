@@ -133,3 +133,9 @@ Ejecutar docker compose up para iniciar la aplicación en Azure Container Instan
   ![Captura de pantalla 2022-11-24 160854](https://user-images.githubusercontent.com/88751751/203863491-9db4526b-f47c-417f-b90f-b52786775fb0.png)
   
 ![Captura de pantalla 2022-11-24 161031](https://user-images.githubusercontent.com/88751751/203863599-c4972e4a-df64-41e5-a517-9c6afd0328db.png)
+
+  ## Uso del aplicativo
+  
+  Esta aplicación tiene como objetivo que el usuario vote entre perro o gato, por lo tanto, se van sumando los votos de cada uno. Además, tiene la opción de "Reset" para volver a hacer el conteo.
+  
+  ![Captura de pantalla 2022-11-24 164554](https://user-images.githubusercontent.com/88751751/203866908-dbf21ab0-e169-4a53-a948-909160a477ac.png)
