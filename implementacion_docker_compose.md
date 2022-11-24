@@ -85,4 +85,28 @@ Se comprueba que la imagen haya sido creada correctamente
   
   ![Captura de pantalla 2022-11-24 142309](https://user-images.githubusercontent.com/88751751/203853397-f85eeba3-db28-480e-82cf-8cccd565eff6.png)
 
+ Se comprueba que los contenedores se estén ejecutando
  
+  * Ejecutar el comando: docker ps
+  
+ ![Captura de pantalla 2022-11-24 142540](https://user-images.githubusercontent.com/88751751/203854122-8d4236f3-5111-4fc4-90f7-fe5122842bed.png)
+
+Comprobación de funcionamiento de la aplicación
+
+  ![Captura de pantalla 2022-11-24 142737](https://user-images.githubusercontent.com/88751751/203854236-04210263-f418-4e25-b3da-2e89d0a93e73.png)
+
+  Inserción de las imágenes de docker en Container Registry.
+  
+* Mediante el comando: docker-compose push
+  
+  ![Captura de pantalla 2022-11-24 142958](https://user-images.githubusercontent.com/88751751/203854454-2e34d98b-31f8-4249-bb7b-178221a333df.png)
+
+  Logueo de docker en Azure
+  
+* Ejecutando el comando: docker login azure
+  
+  ![Captura de pantalla 2022-11-24 143256](https://user-images.githubusercontent.com/88751751/203854671-40d55df0-3c89-4daa-9467-1d8568221458.png)
+  
+  
+
+  
