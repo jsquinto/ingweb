@@ -21,7 +21,7 @@ Ejecutamos el comando: az login
 
 ![Captura de pantalla 2022-11-24 135321](https://user-images.githubusercontent.com/88751751/203850464-8bc913b0-64ac-42de-9c8a-c67fa0c67f5a.png)
 
-##Creación de una instancia de Azure Container Registry
+## Creación de una instancia de Azure Container Registry
 
 Creación de grupo de recursos
 
@@ -34,3 +34,11 @@ Creación de registro de contenedor de Azure
 Ejecutamos el comando: az acr create --resource-group myResourceGroup --name <acrName> --sku Basic
 
 ![Captura de pantalla 2022-11-24 135705](https://user-images.githubusercontent.com/88751751/203850954-be001fde-2b29-4479-918b-8f7e65086dfd.png)
+  
+Iniciar sesión en el contenedor creado
+  
+Ejecutamos el comando: az acr login --name examenFinal
+  
+![Captura de pantalla 2022-11-24 140520](https://user-images.githubusercontent.com/88751751/203851646-c2f7caaf-2397-44bf-a0f7-01333f902fb2.png)
+
+ 
