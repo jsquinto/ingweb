@@ -101,12 +101,21 @@ Comprobación de funcionamiento de la aplicación
   
   ![Captura de pantalla 2022-11-24 142958](https://user-images.githubusercontent.com/88751751/203854454-2e34d98b-31f8-4249-bb7b-178221a333df.png)
 
-  Logueo de docker en Azure
+Logueo de docker en Azure
   
 * Ejecutando el comando: docker login azure
   
   ![Captura de pantalla 2022-11-24 143256](https://user-images.githubusercontent.com/88751751/203854671-40d55df0-3c89-4daa-9467-1d8568221458.png)
   
+Creación de un contexto de Azure
+  
+* Ejecutando el comando: docker context create aci myacicontext
+  
+  ![Captura de pantalla 2022-11-24 143651](https://user-images.githubusercontent.com/88751751/203854964-be4ec668-4113-490c-9826-b71bc335f8ec.png)
   
 
+ Confirmar que agregó el contexto de ACI a los contextos de Docker
+* Ejecutando el comando: docker context ls
   
+  ![Captura de pantalla 2022-11-24 143841](https://user-images.githubusercontent.com/88751751/203855111-51bfc161-f1a6-4fa1-acaf-4b552011071f.png)
+
