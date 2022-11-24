@@ -7,7 +7,7 @@ Se hizo la respectiva descarga de Azure CLI para poder utilizar los comandos den
 
 Verificación de Instalación:
 
-Ejecutamos el comando: az --version
+* Ejecutamos el comando: az --version
 
 ![Captura de pantalla 2022-11-24 134547](https://user-images.githubusercontent.com/88751751/203849755-35d6d330-528c-4adf-84e7-64410d3e13c4.png)
 
@@ -17,7 +17,7 @@ Configuración de suscripción de estudiantes en Portal Azure:
 
 Configuración de acceso y suscripción en Cli Azure:
 
-Ejecutamos el comando: az login
+* Ejecutamos el comando: az login
 
 ![Captura de pantalla 2022-11-24 135321](https://user-images.githubusercontent.com/88751751/203850464-8bc913b0-64ac-42de-9c8a-c67fa0c67f5a.png)
 
@@ -25,20 +25,50 @@ Ejecutamos el comando: az login
 
 Creación de grupo de recursos
 
-Ejecutamos el comando: az group create --name myResourceGroup --location eastus
+* Ejecutamos el comando: az group create --name myResourceGroup --location eastus
 
 ![Captura de pantalla 2022-11-24 135433](https://user-images.githubusercontent.com/88751751/203850616-2703ec9f-653f-4b49-9dca-8351d0af32bc.png)
 
 Creación de registro de contenedor de Azure
 
-Ejecutamos el comando: az acr create --resource-group myResourceGroup --name <acrName> --sku Basic
+* Ejecutamos el comando: az acr create --resource-group myResourceGroup --name <acrName> --sku Basic
 
 ![Captura de pantalla 2022-11-24 135705](https://user-images.githubusercontent.com/88751751/203850954-be001fde-2b29-4479-918b-8f7e65086dfd.png)
   
 Iniciar sesión en el contenedor creado
   
-Ejecutamos el comando: az acr login --name examenFinal
+* Ejecutamos el comando: az acr login --name examenFinal
   
 ![Captura de pantalla 2022-11-24 140520](https://user-images.githubusercontent.com/88751751/203851646-c2f7caaf-2397-44bf-a0f7-01333f902fb2.png)
 
+Clonación de repositorio de la aplicación de voto.
+  
+* Ejecutamos el comando: git clone https://github.com/Azure-Samples/azure-voting-app-redis.git
  
+![Captura de pantalla 2022-11-24 140939](https://user-images.githubusercontent.com/88751751/203852189-e1def60a-b60a-4300-a6ab-53bedcb3f817.png)
+
+Se modifica el archivo docker-compose en un editorde texto para que funcione con el registro creado anteriormente. El archivo configura los servicios azure-vote-back y azure-vote-front.
+
+```
+version: '3'
+services:
+  azure-vote-back:
+    image: mcr.microsoft.com/oss/bitnami/redis:6.0.8
+    container_name: azure-vote-back
+    environment:
+      ALLOW_EMPTY_PASSWORD: "yes"
+    ports:
+        - "6379:6379"
+
+  azure-vote-front:
+    build: ./azure-vote
+    image: mcr.microsoft.com/azuredocs/azure-vote-front:v1
+    container_name: azure-vote-front
+    environment:
+      REDIS: azure-vote-back
+    ports:
+        - "8080:80"
+```
+  
+  ![Captura de pantalla 2022-11-24 141321](https://user-images.githubusercontent.com/88751751/203852557-7921c8a2-08e7-43c3-97df-e107930f4733.png)
+
