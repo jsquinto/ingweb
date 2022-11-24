@@ -125,3 +125,11 @@ Ejecutar docker compose up para iniciar la aplicación en Azure Container Instan
   * Ejecutando el comando: docker compose up
   
   ![Captura de pantalla 2022-11-24 144006](https://user-images.githubusercontent.com/88751751/203855227-93c2209e-e7af-45ec-b7ef-59c48f188131.png)
+
+  Comprobar que los contenedores están ejecutándose y verificar la dirección ip: http://20.246.128.13
+  
+ * Ejecutando el comando: docker ps
+  
+  ![Captura de pantalla 2022-11-24 160854](https://user-images.githubusercontent.com/88751751/203863491-9db4526b-f47c-417f-b90f-b52786775fb0.png)
+  
+![Captura de pantalla 2022-11-24 161031](https://user-images.githubusercontent.com/88751751/203863599-c4972e4a-df64-41e5-a517-9c6afd0328db.png)
